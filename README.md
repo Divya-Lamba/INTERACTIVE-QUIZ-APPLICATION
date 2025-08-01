@@ -26,6 +26,11 @@ This is a simple  web-based Quiz App built using HTML, CSS, and JavaScript as pa
 
 This project was created for hands-on learning during my first internship. It helped me understand DOM manipulation, event handling in JavaScript, and creating interactive user interfaces and how to create the basic bignner level web application .
 
+# output::
+<img width="1842" height="1017" alt="image" src="https://github.com/user-attachments/assets/f148c16e-2f1c-4aa0-b98f-8e84be843b1b" />
+
+
+
 
 
 
